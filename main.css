@@ -1,0 +1,24 @@
+html,body{
+  height: 100%;
+  margin: 0;
+  font-family: 'Delius Unicase', cursive;
+}
+
+h1{
+  margin: 0;
+}
+
+.main-section{
+   background: #0c0c0c;
+  width: 100%;
+  height: 100%;
+  color: white;
+  text-align: center
+
+}
+
+#timer{
+  color: #3cc47c;
+  font-size: 30px;
+  font-family: 'Fredericka the Great', cursive;
+}
