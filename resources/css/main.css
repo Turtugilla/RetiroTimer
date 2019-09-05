@@ -1,0 +1,56 @@
+html,body{
+  height: 100%;
+  margin: 0;
+  background-color: #141414;
+}
+
+h1{
+  margin: 0;
+}
+
+
+.main-section{
+   background: #0c0c0c;
+  width: 100%;
+  height: 100%;
+  color: white;
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive; 
+}
+
+.main-section p{
+  font-size: 30px;
+  margin-top: 50px; 
+}
+
+.main-section img{
+  margin: 40px;
+}
+
+
+.section-flayer{
+  background-color: #4b4b4b;
+}
+
+.section-flayer img{
+  margin: 5%;
+}
+
+.section-carousel h1{
+  color: white;
+  font-family: 'Gloria Hallelujah', cursive; 
+  margin: 20px;
+}
+
+#timer{
+  color: #1ceb7c;
+  font-size: 30px;
+  font-family: 'Patua One', cursive;
+}
+
+
+@media screen and (min-width: 0px) and (max-width: 450px){
+
+  .main-section img{ display: none; } 
+
+}
